@@ -1,5 +1,10 @@
 # radio-project
 
+```
+node: v16.13.0
+yarn: 1.22.18
+```
+
 ## Getting Started
 
 First, run the development server:
